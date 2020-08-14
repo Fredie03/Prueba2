@@ -18,7 +18,7 @@
     <div class="main">
       <header>
         <div class="wrapper">
-          <h1><a href="index.html" id="logo">Sciencelab</a></h1>
+          <h1><a href="index.html" id="logo">Challenge CdCMx Team 18</a></h1>
           <form id="search" method="post" action="#">
             <div>
               <input type="submit" class="submit" value="">
